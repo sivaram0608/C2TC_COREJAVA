@@ -16,7 +16,7 @@ public static void main(String[]args) {
 	d= sc.nextInt();
 	e=sc.nextInt();
 	f=d+e;
-	System.out.print("The added values of d="+d+"and e=" +e+ " is "+f);
+	System.out.print("The added values of d= "+d+"and e= " +e+ " is "+f);
 	
 	
 }
