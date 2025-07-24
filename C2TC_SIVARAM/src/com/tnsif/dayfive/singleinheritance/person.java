@@ -1,4 +1,4 @@
-package com.tnsif.dayfour.inheritance;
+package com.tnsif.dayfive.singleinheritance;
 
 public class person {
 	private String name;
