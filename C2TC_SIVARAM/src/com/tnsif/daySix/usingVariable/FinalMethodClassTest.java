@@ -1,6 +1,6 @@
 
 
-package com.tnsif.daySix.dailyWork.usingVariable;
+package com.tnsif.daySix.usingVariable;
 
 public class FinalMethodClassTest extends FinalMethodClass {
 		  // Compile time error because we cannot override the final method 

@@ -1,5 +1,5 @@
 
-package com.tnsif.daySix.dailyWork.staticVariable;
+package com.tnsif.daySix.staticVariable;
 
 public class Employee {
 	

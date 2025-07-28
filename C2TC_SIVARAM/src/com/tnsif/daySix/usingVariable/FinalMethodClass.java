@@ -1,5 +1,5 @@
 
-package com.tnsif.daySix.dailyWork.usingVariable;
+package com.tnsif.daySix.usingVariable;
 
 class FinalMethodClass {
 		FinalMethodClass() {

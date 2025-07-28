@@ -1,5 +1,5 @@
 
-package com.tnsif.daySix.dailyWork.staticBlockMethod;
+package com.tnsif.daySix.staticBlockMethod;
 
 public class Myclass {
 		private int section ; 
