@@ -11,7 +11,7 @@ public class OverridingDemo {
 		rbi = new SBI();
 		System.out.println(rbi.getRateOfInterest());
 
-		rbi = new ICICI();
+		rbi = new ICIC();
 		System.out.println(rbi.getRateOfInterest());
 
 		rbi = new HDFC();

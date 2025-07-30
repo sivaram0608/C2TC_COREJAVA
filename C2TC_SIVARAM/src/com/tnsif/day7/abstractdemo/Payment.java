@@ -1,9 +1,9 @@
 package com.tnsif.day7.abstractdemo;
 
-public class PaymentGateway {
+abstract class PaymentGateway {
 
 
-		public void paymentProcess(double amt) {
+		public abstract void paymentProcess(double amt); {
 		}
 		public void connectToPayment() {
 			System.out.println("Conneting to the Payment ..");
@@ -18,7 +18,7 @@ class CreditPayment extends PaymentGateway{
 	}
 	
 }
-public class PaymentSystem {
+public class Payment {
 	 	public static void main(String[]args) {
 	 		PaymentGateway payment = new CreditPayment();
 	 		
